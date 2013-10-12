@@ -5,7 +5,7 @@ describe('redis imported features', function() {
         require('./init.js');
     });
 
-    require('jugglingdb/test/common.batch.js');
-    require('jugglingdb/test/include.test.js');
+    require('loopback-datasource-juggler/test/common.batch.js');
+    require('loopback-datasource-juggler/test/include.test.js');
 
 });
