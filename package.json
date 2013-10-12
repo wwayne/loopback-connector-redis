@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "loopback-datasource-juggler": "~1.0.0",
-    "should": "~2.0.1",
+    "should": "~1.2.2",
     "mocha": "~1.13.0"
   },
   "repository": "https://github.com/raymondfeng/loopback-connector-redis",
