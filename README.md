@@ -1,7 +1,5 @@
 ## loopback-connector-redis
-
 Redis connector for LoopBack.
-
 ## Usage
 
 To use it you need `loopback-datasource-juggler@1.0.x`.
