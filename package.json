@@ -7,13 +7,13 @@
     "test": "make test"
   },
   "dependencies": {
-    "redis": "~0.8.6",
-    "async": "~0.2.9"
+    "async": "^0.9.0",
+    "redis": "^0.12.1"
   },
   "devDependencies": {
-    "loopback-datasource-juggler": "~1.0.0",
-    "should": "~1.2.2",
-    "mocha": "~1.13.0"
+    "loopback-datasource-juggler": "^2.7.0",
+    "mocha": "~1.13.0",
+    "should": "~1.2.2"
   },
   "repository": "https://github.com/raymondfeng/loopback-connector-redis",
   "license": "MIT"
