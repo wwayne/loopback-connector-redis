@@ -18,7 +18,7 @@
   "license": {
     "name": "Dual MIT/StrongLoop",
     "url": "https://github.com/strongloop/loopback-connector-redis/blob/master/LICENSE"
-  }
+  },
   "directories": {
     "test": "test"
   },
