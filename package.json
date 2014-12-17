@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-redis",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Redis connector for LoopBack",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   "license": {
     "name": "Dual MIT/StrongLoop",
     "url": "https://github.com/strongloop/loopback-connector-redis/blob/master/LICENSE"
-  }
+  },
   "directories": {
     "test": "test"
   },
