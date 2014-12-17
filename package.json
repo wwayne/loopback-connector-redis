@@ -15,6 +15,20 @@
     "mocha": "~1.13.0",
     "should": "~1.2.2"
   },
-  "repository": "https://github.com/raymondfeng/loopback-connector-redis",
-  "license": "MIT"
+  "license": {
+    "name": "Dual MIT/StrongLoop",
+    "url": "https://github.com/strongloop/loopback-connector-redis/blob/master/LICENSE"
+  }
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/strongloop/loopback-connector-redis.git"
+  },
+  "author": "StrongLoop <callback@strongloop.com>",
+  "bugs": {
+    "url": "https://github.com/strongloop/loopback-connector-redis/issues"
+  },
+  "homepage": "https://github.com/strongloop/loopback-connector-redis"
 }
