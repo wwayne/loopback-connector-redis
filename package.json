@@ -23,10 +23,7 @@
     "mocha": "~1.13.0",
     "should": "~1.2.2"
   },
-  "license": {
-    "name": "Dual MIT/StrongLoop",
-    "url": "https://github.com/strongloop/loopback-connector-redis/blob/master/LICENSE"
-  },
+  "license": "MIT",
   "directories": {
     "test": "test"
   },
