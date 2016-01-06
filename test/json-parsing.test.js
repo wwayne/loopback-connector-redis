@@ -15,7 +15,7 @@ describe('json-parsing', function() {
             should.not.exist(err);
             should.exist(mm);
             mm.name.should.equal('{"property": true}');
-            Model.find(mm.id, function (err, mmm) {
+            Model.findById(mm.id, function (err, mmm) {
                 should.not.exist(err);
                 should.exist(mmm);
                 mmm.name.should.be.a.String;
